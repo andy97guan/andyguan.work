@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://andyguan.work/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andyguan.work/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andyguan.work/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andyguan.work/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://andyguan.work/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://andyguan.work/author/haoyuandy-guan/</loc>
+  </url>
+  
+  <url>
+    <loc>https://andyguan.work/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://andyguan.work/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://andyguan.work/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://andyguan.work/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://andyguan.work/tags/</loc>
+  </url>
+  
+</urlset>
